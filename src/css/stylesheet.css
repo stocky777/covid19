@@ -1,0 +1,31 @@
+
+
+
+.custom-color-primary
+{
+  background-color: #eb5e28;
+}
+
+.custom-color-secondary
+{
+  background-color: #ccc5b9;
+}
+
+.custom-color-secondary-btn
+{
+  background-color: #ccc5b9;
+  color: #fffcf2;
+}
+
+.custom-color-secondary-btn:hover
+{
+  background-color: #fffcf2;
+  color: #ccc5b9;
+}
+
+.item
+{
+  position: relative;
+  padding: 10%;
+  margin: 2%;
+}
